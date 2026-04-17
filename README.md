@@ -1,16 +1,55 @@
-# React + Vite
+# 🚀 SmartUI — Modern Frontend Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-quality frontend application focused on delivering modern UI/UX, smooth animations, and scalable component architecture.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+https://repo-portafolio-plum.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📂 Repository
+https://github.com/EmmanuelGarDi/Repo-portafolio
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 Pixel-perfect UI inspired by Apple & Stripe
+- 🌙 Dark / Light mode (system + persistence)
+- 🎬 Smooth animations using Framer Motion
+- 📱 Fully responsive (mobile-first approach)
+- 🧱 Reusable component architecture
+- 🔐 Authentication flow (mocked login)
+- 🧭 Routing with protected pages
+- 📊 Dashboard layout (SaaS-style UI)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 UX / UI Highlights
+
+- Clean layout with max-width system (1440px)
+- Consistent spacing and typography
+- Interactive components (carousel, gallery)
+- Micro-interactions and hover effects
+- Visual hierarchy and accessibility considerations
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Router
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here (Hero, Dashboard, Mobile view)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
